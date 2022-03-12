@@ -1,4 +1,6 @@
-<img src="https://static.wixstatic.com/media/124f96_8a83557eacfb4174bea152b1a6a565d2~mv2.png/v1/crop/x_0,y_75,w_500,h_350/fill/w_187,h_131,al_c,usm_0.66_1.00_0.01,blur_3,enc_auto/Cloudmates%20-%20Logo%20(3).png" alt="Cloudmates - Logo (3).png"
+                                                      AWS API Gateway with a custom domain domain
+
+This module will deploy a private AWS API Gateway with a custom domain domain integrated with a Lambda function. 
 
 
 ## Requirements
