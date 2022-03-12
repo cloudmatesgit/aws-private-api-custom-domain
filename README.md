@@ -1,4 +1,4 @@
-                                                      AWS API Gateway with a custom domain domain
+                                                      AWS private API Gateway with a custom domain domain
 
 This module will deploy a private AWS API Gateway with a custom domain domain integrated with a Lambda function. 
 
